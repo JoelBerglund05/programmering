@@ -1,0 +1,17 @@
+### välkomnande och förfrågan om dem vill börja spela
+
+###impaltera möjligheten att spela flera spelare
+
+###spelarna ska kunna sätta egna namn på sig själva
+
+eknelt sätt att sattsa på olika kombinationer
+
+vilka som du inte redan har fyllt i 
+
+förslag på kombinationer du kan sattsa på 
+
+möjligheten att stryka en val fri kombination
+
+kunna kassta max tre gånger
+
+ 

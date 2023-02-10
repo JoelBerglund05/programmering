@@ -1,0 +1,17 @@
+lös problem
+
+
+
+
+
+
+Lösta problem
+
+gör om player namn systemet
+
+#playercount =[]
+
+for i in range(players):
+  playercount.append(i)
+
+funkar inte#
